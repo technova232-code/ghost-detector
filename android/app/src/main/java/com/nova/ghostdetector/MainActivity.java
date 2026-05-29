@@ -1,0 +1,5 @@
+package com.nova.ghostdetector;
+
+import com.getcapacitor.BridgeActivity;
+
+public class MainActivity extends BridgeActivity {}
